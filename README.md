@@ -13,3 +13,6 @@ pygame知识点示例代码
 | Pygame绘制圆角正方形 | pg007border |
 | Pygame背景音乐音量太大怎么办？ | pg008music |
 | Pygame怎么让人物跳跃？ | pg009jump |
+| Pygame中简单的碰撞检测 | pg010overlap |
+| Pygame完美碰撞检测 | pg011perfect |
+| Pygame让人仔走出六亲不认的步伐 | pg012walking |
