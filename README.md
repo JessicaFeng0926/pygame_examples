@@ -10,3 +10,6 @@ pygame知识点示例代码
 | colorkey可以这么玩儿 | pg004colorkey |
 | Pygame文本框制作(上)<br/>Pygame文本框制作(下) | pg005inputbox |
 | Pygame可以用英语单词表示颜色吗？ | pg006colorstrings |
+| Pygame绘制圆角正方形 | pg007border |
+| Pygame背景音乐音量太大怎么办？ | pg008music |
+| Pygame怎么让人物跳跃？ | pg009jump |
